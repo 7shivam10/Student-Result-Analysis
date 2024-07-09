@@ -1,8 +1,6 @@
 ![image](https://github.com/7shivam10/Student-Result-Analysis/assets/109152864/ca43e309-3bd3-49b4-8dda-57b83fa8300e)
 
-
 # Student-Result-Analysis
-
 In this project, I have analyse the several factors that affects the score of the students.
 
 # Data Availability
