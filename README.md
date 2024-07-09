@@ -5,7 +5,7 @@ In this project, I have analyse the several factors that affects the score of th
 The data was directly obtained from Kaggle.
 
 # Questions
-1.Compare the count of male and female students in the dataset.
+1.Compare the count of male and female students in the dataset. 
 2.Find out the realtion between parent's education and child's score.
 3.Find out the relation between parent's marital status and child's score.
 4.Which ethnic group does most of the childrens belongs to ?
